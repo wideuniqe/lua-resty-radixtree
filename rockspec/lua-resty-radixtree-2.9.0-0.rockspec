@@ -13,7 +13,6 @@ description = {
 
 dependencies = {
     "lua-resty-ipmatcher",
-    "lua-resty-expr = 1.3.0",
 }
 
 
